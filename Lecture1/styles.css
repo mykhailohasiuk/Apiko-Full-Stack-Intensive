@@ -1,0 +1,118 @@
+body{
+  background-color: #eee;
+  font-family: verdana;
+}
+header{
+  position:fixed;
+  right: 20px;
+  width: 25%;
+  margin: 2%;
+}
+header h1{
+  text-align: right;
+}
+header h2{
+  text-align: right;
+}
+
+/* post-list styles */
+
+.main{
+  width: 70%;
+}
+
+.post-list-item{
+  margin: 5px;
+  background-color: #ffffff;
+  padding: 3px 10px;
+  border-radius: 3px;
+
+}
+
+a{
+text-decoration: none;
+}
+
+.post-list-title{
+  text-transform: uppercase;
+  text-align: center;
+  color: blue;
+}
+.post-list-body{
+}
+.nav-but{
+  padding: 6px;
+  border: none;
+  border-radius: 5px;
+  color: #eee;
+  text-decoration: none;
+  font-size: 1em;
+  margin: 5px;
+
+}
+.read-post{
+ background-color: green;
+
+}
+.read-user{
+  background-color: blue;
+}
+.read-all{
+  background-color: blue;
+}
+
+.single-post{
+
+}
+
+.post-title{
+  text-align: center;
+  text-transform: uppercase;
+  color: blue;
+}
+
+.post-body{
+
+}
+
+.comment-section{
+  padding-left: 8%;
+}
+.single-comment{
+  margin: 5px;
+  background-color: #ffffff;
+  padding: 3px 10px;
+  border-radius: 3px;
+}
+.single-comment p{
+  font-size: 0.8em;
+}
+.comment-name{
+  font-style: italic;
+  text-transform: uppercase;
+  color: blue;
+}
+.comment-email{
+  text-align: right;
+  color: blue;
+  font-style: italic;
+}
+
+
+.user-post-list{
+  padding-left: 8%;
+}
+.user-post{
+  margin: 5px;
+  background-color: #ffffff;
+  padding: 3px 10px;
+  border-radius: 3px;
+}
+.user-post-title{
+  font-style: italic;
+  text-transform: uppercase;
+  color: blue;
+}
+.user-post a{
+  align-items: right;
+}

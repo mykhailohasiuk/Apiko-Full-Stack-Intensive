@@ -1,2 +1,5 @@
 # Apiko-Full-Stack-Intensive
-HOme tasks for Apiko Javaskript courses
+Home tasks for Apiko JavaScript courses
+
+--Should work without server
+--Added simple styling
